@@ -1,0 +1,8 @@
+#THIS FILE WILL CONTAIN THE SERVICES WE ARE TRYING TO TRACKED:
+#ADD SERVICE FILES BELOW:
+cups.service
+sshd.service
+atd.service
+abrt-pstoreoops.service
+auditd.service
+firewalld.service
