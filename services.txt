@@ -1,5 +1,4 @@
-#THIS FILE WILL CONTAIN THE SERVICES WE ARE TRYING TO TRACKED:
-#ADD SERVICE FILES BELOW:
+#This file will contain services we are going to track.
 cups.service
 sshd.service
 atd.service
